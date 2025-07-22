@@ -8,7 +8,6 @@ import pickle
 from pathlib import Path
 import base64
 import io
-import matplotlib.pyplot as plt
 from typing import List
 
 # -----------------------------------------------------------------------------
